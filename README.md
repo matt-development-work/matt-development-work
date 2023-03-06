@@ -14,7 +14,7 @@ Oct 2021 - Feb 2023
 🌴 <b>Tree Component</b>  
 [Code](https://github.com/matt-development-work/React-TypeScript-UI-Component-Library-Sample-with-Testing-and-A11y/blob/master/src/components/Tree/Tree.tsx)  
 [Issues](https://github.com/matt-development-work/React-TypeScript-UI-Component-Library-Sample-with-Testing-and-A11y/issues)  
-[Live demo](https://react-component-library-sample.vercel.app/?path=/story/tree--custom)  
+[Tree](https://react-component-library-sample.vercel.app/iframe.html?globals=backgrounds.value:!hex(F8F8F8)&id=tree--custom&viewMode=story)  
 <i>Follows the [Tree View Design Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/treeview/) from the [W3C WAI ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)</i> (as the requirements were specified before this [update](https://github.com/w3c/aria-practices/commits/ae779f32cd76d562fbb17c2ebc892835b6e07a5d/content/patterns/treeview/treeview-pattern.html). See documented plans to catch up! [#51](https://github.com/matt-development-work/React-TypeScript-UI-Component-Library-Sample-with-Testing-and-A11y/issues/51) [#52](https://github.com/matt-development-work/React-TypeScript-UI-Component-Library-Sample-with-Testing-and-A11y/issues/52)) 🙂
 
 <br/>
