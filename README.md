@@ -3,7 +3,7 @@
 ## [RootedJS](https://github.com/rootedjs/RootedJS)
 
 July 2022 - Present  
-[📖 README](https://github.com/rootedjs/Rootedjs/blob/master/README.md)  
+[📖 TL;DR](https://github.com/rootedjs/Rootedjs/blob/master/README.md)  
 <i>A journal pushing multi-application code reuse and stateless frontend</i>
 <br/>
 <br/>
