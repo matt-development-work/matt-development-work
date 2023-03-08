@@ -7,7 +7,7 @@
 ### <i>Thrifty TypeScript</i>
 July 2022 - Present  
 [📖 TL;DR](https://github.com/rootedjs/Rootedjs/blob/master/README.md)  
-<i>A journal pushing multi-application code reuse and stateless frontend...</i>  
+<i>A journal pushing multi-app code reuse and stateless frontend...</i>  
 <i>Get it from the source!</i>
 
 <br/>
