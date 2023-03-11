@@ -83,8 +83,9 @@ Mobile PWA
 ### [JitterCritters](https://jitter-critters.vercel.app/)
 Web App  
 2019  
-⚛🐛
+![jittercritters](https://user-images.githubusercontent.com/24415914/224487163-768e9350-5f5e-4e3d-832e-9e98f5cec249.jpg)
 
+<br/>
 <br/>
 <br/>
 
