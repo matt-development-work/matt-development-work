@@ -35,7 +35,7 @@
 
 <br/>
 
-I built these projects during a time when I had different programming skills and interests than I do today. This category is not intended to be a representation of best practices and there will be bugs! 🪲
+I built these projects during a time when I had different programming skills and interests than I do today. This category is not intended to be a representation of best practices and there are bugs!🪲🪱🐛🕸️
 
 <br/>
 <br/>
